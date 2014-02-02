@@ -1,0 +1,108 @@
+David Koh
+Hilary Paisley
+Liz Skerritt
+Stephen Seo
+
+
+Run "python Main.py" to start the application.
+
+All assets were drawn by Liz (artwork) or sequenced by Stephen (music/sfx).
+
+Scoring:
+
+Player begins with 0 points.
+Every time player attacks an enemy, he gains 50 points.
+Player also accumlates points based on the time of level completion:
+The time bonus will begin at 1200 points and every second the bonus will
+decrease by 10.
+
+To input a new high score, select "quit" after winning the game.
+
+Assignment 7 Improvements:
+
+Added another enemy (birds)
+Extended the level with platform decisions
+Spawning enemies all over the map
+Dead Noel Sprite
+Added EntryScreen with short story line
+Created a new component based enemy spawning thing
+
+Assignment 8 Improvements:
+
+Added three enemies
+    Bat, Stalactite, Slime
+Added level three
+(now there is level one and level three)
+(Skipped level two for now)
+Added music to level one
+Added hit sound to enemies
+
+Assignment 9 Improvements:
+
+1. Backgrounds need more detail
+--> Forest level backgrounds has more detail.
+
+2. You hit multiple enemies at once, that is supposed to be a skill.
+--> In World.py we added a boolean to the equipment item that hits the enemies
+    to check whether an enemy is already damaged. The boolean is reset after
+    the swing.
+
+3. Fix the text in the plot cut scene thing screen I don't know.
+--> Altered the text display in EntryScreen.py
+
+4. High Score screen text issues.
+--> Made the highscore screen only the 10 top scores by altering the loop when
+    printing out the scores to the screen.
+
+5. No text indicating what the health/mana levels are.
+--> Added text indicators.
+
+6. Edit level one spawn points (reduce number of spawns)
+--> Number of mushrooms spawning in certain areas reduced, such as the "mushroom pit."
+
+7. Reduce difficulty in level two (stalactites moved)
+--> Moved stalactites that were difficult to avoid, and placed in more reasonable
+    locations.
+
+8. Make the jumps easier in level two
+--> Difficulty reduced for platforming areas, platforms easier to jump to.
+
+9. Get rid of unused imports in the files
+--> Done, multiple files updated.
+
+10. Collision with mini-sun is buggy.
+--> Fixed collisions by using pygame.sprite.collide_rect
+
+
+Assignment 10 improvements:
+
+    added the third level (technically level four).
+Has owl enemy, icicles.
+currently available cheats: h heals, j wins level, b spawns snowboss.
+Music for cave level and snow level
+(two and three, or technically three and four).
+cutscenes between levels.
+Odd pep8 issue where it complains about too many '\',
+but without the backslash it is impossible to avoid the
+'line-over-79-chars-long' issue.
+
+Assignment 11 improvements:
+
+    added the fourth level (technically level two).
+No mountain(two) level music yet.
+Has vultures and rabbits as monsters.
+Snowboss cheat removed.
+Music for boss and boss level created.
+Controller support is in, but not tested with a 360 controller yet.
+        #self.Jcircle = pygame.draw.circle(Globals.SCREEN, self.blue, (250, 250), 10, 0)
+
+
+Assignment 12 improvements:
+
+    Addded music for level two, improvements everywhere.
+Logs tell all. Logs tell all...
+Cheats can only be used in debug mode. F1 to enable debug mode.
+h - health
+j - win level
+o - get mini sun
+p - print player pos

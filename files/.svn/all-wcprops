@@ -1,0 +1,455 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/gyro/!svn/ver/444/bin
+END
+AudioManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gyro/!svn/ver/248/bin/AudioManager.py
+END
+CAIDiving.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/gyro/!svn/ver/358/bin/CAIDiving.py
+END
+CProjectile.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gyro/!svn/ver/328/bin/CProjectile.py
+END
+CAttach.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/gyro/!svn/ver/328/bin/CAttach.py
+END
+CHUDBoss.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/gyro/!svn/ver/443/bin/CHUDBoss.py
+END
+OverScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/gyro/!svn/ver/399/bin/OverScreen.py
+END
+HighScoreScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gyro/!svn/ver/443/bin/HighScoreScreen.py
+END
+Entity.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/gyro/!svn/ver/327/bin/Entity.py
+END
+PauseScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gyro/!svn/ver/408/bin/PauseScreen.py
+END
+CSpawnOwl.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/gyro/!svn/ver/430/bin/CSpawnOwl.py
+END
+SettingScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gyro/!svn/ver/414/bin/SettingScreen.py
+END
+SkillScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gyro/!svn/ver/423/bin/SkillScreen.py
+END
+ControlScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gyro/!svn/ver/408/bin/ControlScreen.py
+END
+MainScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/gyro/!svn/ver/425/bin/MainScreen.py
+END
+CSpawnMushroom.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/gyro/!svn/ver/327/bin/CSpawnMushroom.py
+END
+CSpawnSnowboss.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/gyro/!svn/ver/433/bin/CSpawnSnowboss.py
+END
+HighScoreInputScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gyro/!svn/ver/408/bin/HighScoreInputScreen.py
+END
+CLiving.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/gyro/!svn/ver/424/bin/CLiving.py
+END
+CAIRandom.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/gyro/!svn/ver/357/bin/CAIRandom.py
+END
+CCollision.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/gyro/!svn/ver/379/bin/CCollision.py
+END
+CPlayer.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/gyro/!svn/ver/436/bin/CPlayer.py
+END
+EntryScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gyro/!svn/ver/396/bin/EntryScreen.py
+END
+Component.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/gyro/!svn/ver/51/bin/Component.py
+END
+CompletedGameScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gyro/!svn/ver/404/bin/CompletedGameScreen.py
+END
+CHUDHealth.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/gyro/!svn/ver/407/bin/CHUDHealth.py
+END
+CDeathParticle.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/gyro/!svn/ver/206/bin/CDeathParticle.py
+END
+ImageManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gyro/!svn/ver/247/bin/ImageManager.py
+END
+Bucket.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/gyro/!svn/ver/207/bin/Bucket.py
+END
+CAIFollow.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/gyro/!svn/ver/303/bin/CAIFollow.py
+END
+CHUDMana.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/gyro/!svn/ver/243/bin/CHUDMana.py
+END
+CSpawnPenguin.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gyro/!svn/ver/430/bin/CSpawnPenguin.py
+END
+CBackground.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gyro/!svn/ver/159/bin/CBackground.py
+END
+CSpawnVulture.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gyro/!svn/ver/424/bin/CSpawnVulture.py
+END
+Main.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/gyro/!svn/ver/409/bin/Main.py
+END
+CSnowbossBot.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gyro/!svn/ver/443/bin/CSnowbossBot.py
+END
+EnterMountainScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/gyro/!svn/ver/392/bin/EnterMountainScreen.py
+END
+ParticleFactory.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gyro/!svn/ver/206/bin/ParticleFactory.py
+END
+CSpawnBird.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/gyro/!svn/ver/358/bin/CSpawnBird.py
+END
+CSpawnIcicle.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gyro/!svn/ver/430/bin/CSpawnIcicle.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/gyro/!svn/ver/443/bin/README
+END
+CSpawnStalactite.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gyro/!svn/ver/359/bin/CSpawnStalactite.py
+END
+MapScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/gyro/!svn/ver/434/bin/MapScreen.py
+END
+CSpawnRabbit.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gyro/!svn/ver/379/bin/CSpawnRabbit.py
+END
+State.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/gyro/!svn/ver/280/bin/State.py
+END
+CSpawnBat.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/gyro/!svn/ver/430/bin/CSpawnBat.py
+END
+CSpawnSlime.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gyro/!svn/ver/430/bin/CSpawnSlime.py
+END
+CPhysics.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/gyro/!svn/ver/219/bin/CPhysics.py
+END
+CTimedDespawn.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gyro/!svn/ver/342/bin/CTimedDespawn.py
+END
+World.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/gyro/!svn/ver/387/bin/World.py
+END
+WinScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/gyro/!svn/ver/397/bin/WinScreen.py
+END
+CAIBirdDiving.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gyro/!svn/ver/443/bin/CAIBirdDiving.py
+END
+CDespawn.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/gyro/!svn/ver/241/bin/CDespawn.py
+END
+ControllerSetupScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gyro/!svn/ver/343/bin/ControllerSetupScreen.py
+END
+CAIFlying.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/gyro/!svn/ver/280/bin/CAIFlying.py
+END
+CParticle.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/gyro/!svn/ver/235/bin/CParticle.py
+END
+CSun.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/gyro/!svn/ver/382/bin/CSun.py
+END
+GameScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/gyro/!svn/ver/443/bin/GameScreen.py
+END
+View.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/gyro/!svn/ver/235/bin/View.py
+END
+CAIStalactite.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gyro/!svn/ver/261/bin/CAIStalactite.py
+END
+EnterCaveScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gyro/!svn/ver/392/bin/EnterCaveScreen.py
+END
+CView.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/gyro/!svn/ver/280/bin/CView.py
+END
+CHUDHealthText.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/gyro/!svn/ver/407/bin/CHUDHealthText.py
+END
+CHUDSunText.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gyro/!svn/ver/371/bin/CHUDSunText.py
+END
+CDamage.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/gyro/!svn/ver/165/bin/CDamage.py
+END
+TitleScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gyro/!svn/ver/443/bin/TitleScreen.py
+END
+CSpawner.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/gyro/!svn/ver/240/bin/CSpawner.py
+END
+CAnimation.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/gyro/!svn/ver/235/bin/CAnimation.py
+END
+Globals.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/gyro/!svn/ver/435/bin/Globals.py
+END
+CHUDScoreText.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gyro/!svn/ver/371/bin/CHUDScoreText.py
+END
+EnterSnowScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/gyro/!svn/ver/392/bin/EnterSnowScreen.py
+END
+CHUDManaText.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gyro/!svn/ver/292/bin/CHUDManaText.py
+END
+highScores.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/gyro/!svn/ver/434/bin/highScores.txt
+END
+CBasicControl.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gyro/!svn/ver/345/bin/CBasicControl.py
+END
+EnterFinalScreen.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gyro/!svn/ver/398/bin/EnterFinalScreen.py
+END
+InputManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/gyro/!svn/ver/436/bin/InputManager.py
+END
